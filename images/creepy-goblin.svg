@@ -1,0 +1,109 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Goblin -->
+  <g id="goblin">
+    <!-- Body -->
+    <path d="M165 220 C140 240 140 280 155 320 C160 330 180 330 185 320 L190 290 L210 290 L215 320 C220 330 240 330 245 320 C260 280 260 240 235 220 Z" fill="#1c8f20"/>
+    <path d="M170 225 C150 240 150 275 160 310 L190 280 L210 280 L240 310 C250 275 250 240 230 225 Z" fill="#2ea832"/>
+    
+    <!-- Chest details -->
+    <path d="M180 240 C190 250 210 250 220 240" stroke="#166018" stroke-width="2" fill="none"/>
+    <path d="M185 250 C195 260 205 260 215 250" stroke="#166018" stroke-width="2" fill="none"/>
+    <path d="M190 260 C195 265 205 265 210 260" stroke="#166018" stroke-width="2" fill="none"/>
+    
+    <!-- Arms -->
+    <path d="M165 220 C140 220 110 230 100 250 C95 260 95 270 105 275 C115 280 125 270 130 260 L150 230 Z" fill="#1c8f20"/>
+    <path d="M235 220 C260 220 290 230 300 250 C305 260 305 270 295 275 C285 280 275 270 270 260 L250 230 Z" fill="#1c8f20"/>
+    
+    <!-- Hands with claws -->
+    <path d="M100 250 L90 245 L95 255 L85 255 L95 260 L85 265 L95 265 L90 275 L100 265" fill="#1c8f20" stroke="#000" stroke-width="1"/>
+    <path d="M300 250 L310 245 L305 255 L315 255 L305 260 L315 265 L305 265 L310 275 L300 265" fill="#1c8f20" stroke="#000" stroke-width="1"/>
+    
+    <!-- Neck -->
+    <path d="M185 170 C185 180 190 190 200 190 C210 190 215 180 215 170 Z" fill="#2ea832"/>
+    
+    <!-- Head -->
+    <ellipse cx="200" cy="120" rx="50" ry="60" fill="#2ea832"/>
+    
+    <!-- Detailed face wrinkles -->
+    <path d="M170 130 C180 125 185 125 190 130" stroke="#166018" stroke-width="2" fill="none"/>
+    <path d="M230 130 C220 125 215 125 210 130" stroke="#166018" stroke-width="2" fill="none"/>
+    <path d="M180 150 C190 145 210 145 220 150" stroke="#166018" stroke-width="2" fill="none"/>
+    
+    <!-- Ears (more detailed and pointy) -->
+    <path d="M155 100 C140 80 130 50 140 30 C145 20 155 25 160 35 C170 55 175 85 165 95 Z" fill="#1c8f20"/>
+    <path d="M245 100 C260 80 270 50 260 30 C255 20 245 25 240 35 C230 55 225 85 235 95 Z" fill="#1c8f20"/>
+    
+    <!-- Ear details -->
+    <path d="M155 70 C150 60 150 50 155 40" stroke="#166018" stroke-width="2" fill="none"/>
+    <path d="M245 70 C250 60 250 50 245 40" stroke="#166018" stroke-width="2" fill="none"/>
+    
+    <!-- Eyes (more sinister) -->
+    <path d="M175 100 C170 90 170 80 180 75 C190 70 200 75 200 85 C200 95 190 105 180 105 C170 105 170 100 175 100 Z" fill="#ffcc00"/>
+    <path d="M225 100 C230 90 230 80 220 75 C210 70 200 75 200 85 C200 95 210 105 220 105 C230 105 230 100 225 100 Z" fill="#ffcc00"/>
+    
+    <!-- Pupils (slits) -->
+    <ellipse cx="185" cy="90" rx="2" ry="10" fill="#000"/>
+    <ellipse cx="215" cy="90" rx="2" ry="10" fill="#000"/>
+    
+    <!-- Eyebrows (angry) -->
+    <path d="M165 70 C175 60 185 65 190 70" stroke="#166018" stroke-width="3" fill="none"/>
+    <path d="M235 70 C225 60 215 65 210 70" stroke="#166018" stroke-width="3" fill="none"/>
+    
+    <!-- Nose -->
+    <path d="M195 100 C200 105 205 105 210 100 C205 110 195 110 195 100 Z" fill="#1c8f20"/>
+    
+    <!-- Large toothy grin -->
+    <path d="M170 130 C185 150 215 150 230 130" fill="#cc0000" stroke="#800000" stroke-width="2"/>
+    
+    <!-- Teeth -->
+    <path d="M175 130 L175 140" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M185 132 L185 145" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M195 134 L195 147" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M205 134 L205 147" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M215 132 L215 145" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M225 130 L225 140" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Sharp fangs -->
+    <path d="M170 130 L173 145" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+    <path d="M230 130 L227 145" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+    
+    <!-- Cheekbones -->
+    <path d="M170 110 C180 115 180 115 170 120" stroke="#166018" stroke-width="2" fill="none"/>
+    <path d="M230 110 C220 115 220 115 230 120" stroke="#166018" stroke-width="2" fill="none"/>
+    
+    <!-- Headphones -->
+    <path d="M150 60 C140 40 140 30 150 20 C170 10 230 10 250 20 C260 30 260 40 250 60" stroke="#333" stroke-width="6" fill="none"/>
+    
+    <!-- Headphone earpieces -->
+    <path d="M140 70 C130 70 125 80 125 90 C125 105 135 115 145 115 C155 115 155 105 155 100 Z" fill="#222"/>
+    <path d="M260 70 C270 70 275 80 275 90 C275 105 265 115 255 115 C245 115 245 105 245 100 Z" fill="#222"/>
+    
+    <!-- Headphone details -->
+    <circle cx="135" cy="95" r="5" fill="#ff3366"/>
+    <circle cx="265" cy="95" r="5" fill="#ff3366"/>
+    <path d="M135 95 L133 93 L137 93" stroke="#fff" stroke-width="1" fill="none"/>
+    <path d="M265 95 L263 93 L267 93" stroke="#fff" stroke-width="1" fill="none"/>
+    
+    <!-- Music notes -->
+    <path d="M130 30 L130 10 L140 5 L140 25 Z" fill="#9966ff"/>
+    <ellipse cx="127" cy="30" rx="6" ry="4" fill="#9966ff"/>
+    
+    <path d="M270 50 L270 30 L280 25 L280 45 Z" fill="#9966ff"/>
+    <ellipse cx="267" cy="50" rx="6" ry="4" fill="#9966ff"/>
+    
+    <path d="M200 20 L200 0 L210 -5 L210 15 Z" fill="#9966ff"/>
+    <ellipse cx="197" cy="20" rx="6" ry="4" fill="#9966ff"/>
+    
+    <!-- Extra details -->
+    <path d="M180 160 C185 165 195 165 200 160" stroke="#166018" stroke-width="1" fill="none"/>
+    <path d="M200 160 C205 165 215 165 220 160" stroke="#166018" stroke-width="1" fill="none"/>
+    
+    <!-- Texture details -->
+    <path d="M170 90 L175 88" stroke="#166018" stroke-width="1" fill="none"/>
+    <path d="M230 90 L225 88" stroke="#166018" stroke-width="1" fill="none"/>
+    <path d="M160 110 L165 108" stroke="#166018" stroke-width="1" fill="none"/>
+    <path d="M240 110 L235 108" stroke="#166018" stroke-width="1" fill="none"/>
+    <path d="M180 130 L185 132" stroke="#166018" stroke-width="1" fill="none"/>
+    <path d="M220 130 L215 132" stroke="#166018" stroke-width="1" fill="none"/>
+  </g>
+</svg>
